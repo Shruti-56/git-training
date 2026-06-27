@@ -1,6 +1,10 @@
 x=10
-print(x)
 
-hfieowhf
+
+
 sdbnfldsfn
 jklfsdkf
+dbfjds
+dnflds
+ndfksdn
+fds
